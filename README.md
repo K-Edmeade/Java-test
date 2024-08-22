@@ -1,6 +1,6 @@
 Java-test
 
-This Java app can be used to proccess a csv file into a database and for getting data from said database using a customer reference. This is all done through the console.
+This Java app can be used to process a csv file into a database and to get data from said database using a customer reference. This is all done through the console.
 
 Prerequisites
 
@@ -13,8 +13,8 @@ Start by cloning the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/mytool.git
-cd mytool
+git clone (https://github.com/K-Edmeade/Java-test.git)
+cd java-test
 2. Set Up PostgreSQL
 Install PostgreSQL: If PostgreSQL is not installed, download and install it from the official PostgreSQL website.
 Create a Database:
